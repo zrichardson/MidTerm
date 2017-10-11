@@ -9,6 +9,10 @@ body{
   background:#000;
   color:#fff;
 }
+h1{
+  font-family:verdana;
+  font-size:100%;
+}
 h2,p{
   font-size:100%;
   font-weight:normal;
